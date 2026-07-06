@@ -202,8 +202,7 @@ Areas of focus include:
 
 Application Support Engineer
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 💻 GitHub: *(Add your GitHub Profile URL)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/kianne-reiy-alota-534729293/)*
 
 ---
 
